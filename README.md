@@ -24,5 +24,5 @@ Clone the repository and run the simulation in Glowscript or locally with VPytho
 Licensed under MIT.
 
 ## Publications
-https://agris.fao.org/search/en/providers/124064/records/67050de1b1dfe472e1450ec7
-https://periodicos.cerradopub.com.br/bjs/issue/view/16
+- https://agris.fao.org/search/en/providers/124064/records/67050de1b1dfe472e1450ec7
+- https://periodicos.cerradopub.com.br/bjs/issue/view/16
