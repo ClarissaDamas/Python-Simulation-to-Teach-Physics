@@ -15,9 +15,9 @@ It was originally developed as part of a teaching experiment to help high school
 Clone the repository and run the simulation in Glowscript or locally with VPython.
 
 ## Usage
-Open simulation.py
-Adjust parameters (mass, gravity, drag coefficient)
-Run the script to visualize motion
+-Open simulation.py
+-Adjust parameters (mass, gravity, drag coefficient)
+-Run the script to visualize motion
 <img width="800" height="400" alt="TCC-Diagrama corpo livre e graficos pptx" src="https://github.com/user-attachments/assets/bc66df73-f0ac-4aed-954e-8717a6d3abb9" />
 
 ## License
